@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 130cac6b96af6214296215324b5da188
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_003
+    100004: Bone_004
+    100006: Head
+    100008: IKnoga_001_L
+    100010: IKnoga_001_R
+    100012: IKnoga_002_L
+    100014: IKnoga_002_R
+    100016: IKnoga_003_L
+    100018: IKnoga_003_R
+    100020: IKnoga_L
+    100022: IKnoga_R
+    100024: IKzub_L
+    100026: IKzub_R
+    100028: Master
+    100030: Mesh
+    100032: nogaA_001_L
+    100034: nogaA_001_R
+    100036: nogaA_002_L
+    100038: nogaA_002_R
+    100040: nogaA_003_L
+    100042: nogaA_003_R
+    100044: nogaA_L
+    100046: nogaA_R
+    100048: nogaB_001_L
+    100050: nogaB_001_R
+    100052: nogaB_002_L
+    100054: nogaB_002_R
+    100056: nogaB_003_L
+    100058: nogaB_003_R
+    100060: nogaB_L
+    100062: nogaB_R
+    100064: nogaC_001_L
+    100066: nogaC_001_R
+    100068: nogaC_002_L
+    100070: nogaC_002_R
+    100072: nogaC_003_L
+    100074: nogaC_003_R
+    100076: nogaC_L
+    100078: nogaC_R
+    100080: nogaD_001_L
+    100082: nogaD_001_R
+    100084: nogaD_002_L
+    100086: nogaD_002_R
+    100088: nogaD_003_L
+    100090: nogaD_003_R
+    100092: nogaD_L
+    100094: nogaD_R
+    100096: Sheya
+    100098: //RootNode
+    100100: Thorso
+    100102: zubA_L
+    100104: zubA_R
+    100106: zubB_L
+    100108: zubB_R
+    400000: Armature
+    400002: Bone_003
+    400004: Bone_004
+    400006: Head
+    400008: IKnoga_001_L
+    400010: IKnoga_001_R
+    400012: IKnoga_002_L
+    400014: IKnoga_002_R
+    400016: IKnoga_003_L
+    400018: IKnoga_003_R
+    400020: IKnoga_L
+    400022: IKnoga_R
+    400024: IKzub_L
+    400026: IKzub_R
+    400028: Master
+    400030: Mesh
+    400032: nogaA_001_L
+    400034: nogaA_001_R
+    400036: nogaA_002_L
+    400038: nogaA_002_R
+    400040: nogaA_003_L
+    400042: nogaA_003_R
+    400044: nogaA_L
+    400046: nogaA_R
+    400048: nogaB_001_L
+    400050: nogaB_001_R
+    400052: nogaB_002_L
+    400054: nogaB_002_R
+    400056: nogaB_003_L
+    400058: nogaB_003_R
+    400060: nogaB_L
+    400062: nogaB_R
+    400064: nogaC_001_L
+    400066: nogaC_001_R
+    400068: nogaC_002_L
+    400070: nogaC_002_R
+    400072: nogaC_003_L
+    400074: nogaC_003_R
+    400076: nogaC_L
+    400078: nogaC_R
+    400080: nogaD_001_L
+    400082: nogaD_001_R
+    400084: nogaD_002_L
+    400086: nogaD_002_R
+    400088: nogaD_003_L
+    400090: nogaD_003_R
+    400092: nogaD_L
+    400094: nogaD_R
+    400096: Sheya
+    400098: //RootNode
+    400100: Thorso
+    400102: zubA_L
+    400104: zubA_R
+    400106: zubB_L
+    400108: zubB_R
+    4300000: Mesh
+    7400000: Default Take
+    7400002: Attack
+    7400004: Attack_Left
+    7400006: Attack_Right
+    7400008: Death
+    7400010: Idle
+    7400012: Run
+    7400014: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''SPIDER'' conversion failed: Required human bone ''LeftUpperLeg''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Spider_Attak
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_Left
+      takeName: Spider_Attak_Left
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_Right
+      takeName: Spider_Attak_Right
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Spider_Death
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Spider_Idle
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Spider_run
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Spider_walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Armature
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IKnoga_002_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thorso
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sheya
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaA_003_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaA_003_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaB_003_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaB_003_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaC_003_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaC_003_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaD_003_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: nogaD_003_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zubA_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: zubA_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SPIDER(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: 0, y: 1.1366785, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Master
+      position: {x: -0, y: 0, z: -1.1409054}
+      rotation: {x: 0.50000006, y: 0.49999997, z: -0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Thorso
+      position: {x: -1.5780792, y: -0.12731498, z: -0.7948512}
+      rotation: {x: 0.0017091702, y: 0.21836472, z: -0.0125667425, w: 0.9757848}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: nogaA_L
+      position: {x: -1.8632416, y: -0.55401176, z: -0.102248244}
+      rotation: {x: 0.85401344, y: 0.36850804, z: 0.33854288, w: -0.14230818}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: nogaB_L
+      position: {x: -0.541415, y: -0.000000044703484, z: -0.000000029802322}
+      rotation: {x: 0.047513843, y: 0.16297993, z: -0.072597384, w: 0.98280704}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: nogaC_L
+      position: {x: -0.5602981, y: -0.00000014156103, z: 0}
+      rotation: {x: -0.01090001, y: 0.26442775, z: -0.02681225, w: 0.9639711}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: nogaD_L
+      position: {x: -0.7309986, y: -0.000000063329935, z: -0.000000029802322}
+      rotation: {x: 0.058494702, y: 0.934657, z: -0.1887153, w: -0.29560322}
+      scale: {x: 1, y: 0.99999976, z: 0.9999999}
+      transformModified: 1
+    - name: Sheya
+      position: {x: -1.7909758, y: 0.0000001359731, z: -0.000000011408702}
+      rotation: {x: 0.97786343, y: 0.00027610883, z: 0.20924407, w: -0.00006417619}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999997}
+      transformModified: 1
+    - name: Head
+      position: {x: -0.28008455, y: 0.000000027939677, z: -0.000000021158485}
+      rotation: {x: 0.014121171, y: -0.17010891, z: -0.08151287, w: 0.98194665}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: zubA_L
+      position: {x: -0.8155599, y: 0.43018436, z: -0.0560845}
+      rotation: {x: 0.013694522, y: 0.037943285, z: -0.122974426, w: 0.99158967}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: zubB_L
+      position: {x: -0.37586227, y: -0.00000008940697, z: 0.000000007450581}
+      rotation: {x: -0.023377076, y: -0.08790066, z: 0.528963, w: 0.84375656}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: zubA_R
+      position: {x: -0.81556016, y: -0.43018427, z: -0.056084394}
+      rotation: {x: -0.0136946635, y: 0.037943404, z: 0.12297421, w: 0.99158967}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+      transformModified: 1
+    - name: zubB_R
+      position: {x: -0.37586224, y: 0.000000077299774, z: 9.31323e-10}
+      rotation: {x: 0.023377113, y: -0.08790072, z: -0.5289629, w: 0.8437566}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.99999976}
+      transformModified: 1
+    - name: IKzub_L
+      position: {x: -1.2028915, y: 0.5274657, z: -0.024570383}
+      rotation: {x: -0.0023645372, y: -0.059515584, z: 0.4204373, w: 0.90536445}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: IKzub_R
+      position: {x: -1.2028916, y: -0.5274656, z: -0.02457022}
+      rotation: {x: 0.0023643938, y: -0.05951565, z: -0.4204373, w: 0.90536445}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: Bone_003
+      position: {x: 0.00000010849908, y: 0.000000020489097, z: -0.00000021327287}
+      rotation: {x: 0.27466354, y: 0.000072869014, z: 0.9615404, w: -0.00027410302}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: Bone_004
+      position: {x: -0.34571207, y: 0.000000037252903, z: 0.000000001862645}
+      rotation: {x: 0.0000000060649876, y: -0.39040765, z: -0.000000042950127, w: 0.9206421}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: nogaA_001_L
+      position: {x: -1.350735, y: -0.6680676, z: 0.44461274}
+      rotation: {x: 0.71042395, y: 0.69690025, z: 0.053194955, w: 0.082451515}
+      scale: {x: 0.99999976, y: 0.99999964, z: 1.0000001}
+      transformModified: 1
+    - name: nogaB_001_L
+      position: {x: -0.51616776, y: 0.000000028871, z: 0}
+      rotation: {x: -0.09238778, y: 0.34076786, z: 0.089164905, w: 0.9313385}
+      scale: {x: 0.9999997, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: nogaC_001_L
+      position: {x: -0.40517914, y: -0.000000014901161, z: 0.000000074505806}
+      rotation: {x: -0.077223465, y: 0.32486975, z: 0.15061992, w: 0.930489}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999997}
+      transformModified: 1
+    - name: nogaD_001_L
+      position: {x: -0.51538575, y: 0.000000048428774, z: 0.000000059604645}
+      rotation: {x: -0.059858114, y: 0.90863115, z: 0.19456087, w: -0.36462662}
+      scale: {x: 0.99999964, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: nogaA_002_L
+      position: {x: -0.7616725, y: -0.80849105, z: 0.351808}
+      rotation: {x: 0.6978174, y: 0.683927, z: 0.16988212, w: -0.12819882}
+      scale: {x: 1, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: nogaB_002_L
+      position: {x: -0.40293902, y: 0.00000006100163, z: -0.00000006513437}
+      rotation: {x: -0.021769328, y: 0.23897697, z: -0.0045231474, w: 0.97077066}
+      scale: {x: 0.9999997, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: nogaC_002_L
+      position: {x: -0.40755254, y: 0.00000004004687, z: 0.00000009685755}
+      rotation: {x: 0.058166288, y: 0.2945628, z: -0.05429129, w: 0.95231396}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: nogaD_002_L
+      position: {x: -0.51281476, y: 0.000000028871, z: 0.00000014019315}
+      rotation: {x: 0.00801458, y: -0.84399104, z: 0.0607968, w: 0.5328402}
+      scale: {x: 0.99999964, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: nogaA_003_L
+      position: {x: -0.09847515, y: -0.777818, z: 0.35662967}
+      rotation: {x: 0.5957783, y: 0.79740316, z: -0.07127009, w: 0.0641644}
+      scale: {x: 0.9999997, y: 0.99999976, z: 0.99999964}
+      transformModified: 1
+    - name: nogaB_003_L
+      position: {x: -0.40662766, y: -0.00000010151416, z: -0.000000070780516}
+      rotation: {x: 0.059962746, y: 0.12360158, z: 0.11795667, w: 0.9834701}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: nogaC_003_L
+      position: {x: -0.39915282, y: 0, z: -0.00000023841858}
+      rotation: {x: 0.26210865, y: -0.004184854, z: 0.006367072, w: 0.96500826}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: nogaD_003_L
+      position: {x: -0.5681599, y: 0.00000012665987, z: 0.00000013411045}
+      rotation: {x: 0.04362363, y: 0.95502317, z: -0.21705605, w: -0.19726764}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: nogaA_R
+      position: {x: -1.8638695, y: 0.5539317, z: -0.10223703}
+      rotation: {x: 0.8184931, y: -0.3393794, z: 0.41987538, w: 0.19645682}
+      scale: {x: 1.0000002, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: nogaB_R
+      position: {x: -0.541415, y: -0.000000022351742, z: 0}
+      rotation: {x: -0.05596384, y: 0.11350764, z: 0.026595639, w: 0.99160314}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: nogaC_R
+      position: {x: -0.5602979, y: 0.00000008195639, z: -0.000000059604645}
+      rotation: {x: 0.0075393217, y: 0.152877, z: -0.008222258, w: 0.98818225}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: nogaD_R
+      position: {x: -0.7309985, y: 0.000000074505806, z: 0}
+      rotation: {x: -0.0937046, y: 0.8885212, z: 0.20660168, w: -0.39882988}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: nogaA_001_R
+      position: {x: -1.3514929, y: 0.6685577, z: 0.44462633}
+      rotation: {x: 0.7572793, y: -0.5699548, z: 0.2632062, w: 0.18000595}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: nogaB_001_R
+      position: {x: -0.51616776, y: 0.00000007590279, z: 0.00000009685755}
+      rotation: {x: 0.08119986, y: 0.21848822, z: -0.12098392, w: 0.9649002}
+      scale: {x: 1, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: nogaC_001_R
+      position: {x: -0.4051792, y: -0.000000034691766, z: 0.00000023841858}
+      rotation: {x: 0.07835374, y: 0.13078544, z: -0.09783804, w: 0.98345494}
+      scale: {x: 0.99999976, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: nogaD_001_R
+      position: {x: -0.5153856, y: 0.000000044703484, z: 0.000000029802322}
+      rotation: {x: 0.016330866, y: -0.74751866, z: 0.2205996, w: 0.6263267}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: nogaA_002_R
+      position: {x: -0.7625901, y: 0.8096509, z: 0.35182446}
+      rotation: {x: 0.7164428, y: -0.67833436, z: 0.12411238, w: 0.10568009}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: nogaB_002_R
+      position: {x: -0.4029392, y: 0.000000031781383, z: 0.0000000144355}
+      rotation: {x: 0.015724003, y: 0.17334566, z: -0.011583376, w: 0.9846674}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: nogaC_002_R
+      position: {x: -0.40755233, y: 0.000000011175871, z: -0.00000005203765}
+      rotation: {x: -0.060323063, y: 0.24200061, z: 0.04002746, w: 0.96757156}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: nogaD_002_R
+      position: {x: -0.51281464, y: 0.000000048428774, z: 0.00000010896474}
+      rotation: {x: -0.031857766, y: 0.879133, z: 0.09376926, w: -0.46617335}
+      scale: {x: 0.99999976, y: 1, z: 1}
+      transformModified: 1
+    - name: nogaA_003_R
+      position: {x: -0.09935835, y: 0.77972996, z: 0.35664558}
+      rotation: {x: -0.65540063, y: 0.7403691, z: -0.06153713, w: -0.13607709}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: nogaB_003_R
+      position: {x: -0.40662777, y: 0.00000011641532, z: -0.000000074505806}
+      rotation: {x: 0.005207299, y: -0.10648559, z: -0.0735819, w: 0.9915743}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: nogaC_003_R
+      position: {x: -0.39915264, y: 0.00000008568168, z: -0.000000029802322}
+      rotation: {x: -0.2476055, y: 0.008029215, z: 0.011100452, w: 0.96876407}
+      scale: {x: 0.9999997, y: 0.99999976, z: 0.9999999}
+      transformModified: 1
+    - name: nogaD_003_R
+      position: {x: -0.5681598, y: 0.00000015646219, z: 0.00000014901161}
+      rotation: {x: 0.17696446, y: -0.74877274, z: -0.2673999, w: 0.58010375}
+      scale: {x: 0.99999964, y: 1.0000004, z: 0.9999997}
+      transformModified: 1
+    - name: IKnoga_L
+      position: {x: -1.0021437, y: -1.5595586, z: 2.0079613}
+      rotation: {x: 0.22218499, y: -0.3795808, z: 0.45367953, w: 0.77506596}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: IKnoga_001_L
+      position: {x: -1.6082275, y: -0.65994686, z: 0.7189321}
+      rotation: {x: 0.04119611, y: -0.44161785, z: 0.08324509, w: 0.8923827}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.99999976}
+      transformModified: 1
+    - name: IKnoga_002_L
+      position: {x: -1.5040748, y: -0.005500108, z: 1.1063204}
+      rotation: {x: 0.007142024, y: -0.22452189, z: 0.03098119, w: 0.97395027}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: IKnoga_003_L
+      position: {x: -1.4553883, y: 0.7719803, z: 0.9192026}
+      rotation: {x: -0.08342265, y: -0.44202396, z: -0.1294458, w: 0.88368505}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: IKnoga_R
+      position: {x: 1.0414449, y: -1.5688, z: 1.9840536}
+      rotation: {x: 0.37958077, y: -0.22218502, z: 0.77506596, w: 0.45367947}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: IKnoga_001_R
+      position: {x: 1.2450522, y: -0.9071822, z: 0.9390763}
+      rotation: {x: 0.23346819, y: -0.04080361, z: 0.95700216, w: 0.16725588}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999998}
+      transformModified: 1
+    - name: IKnoga_002_R
+      position: {x: 1.6529458, y: 0.08161524, z: 0.7734493}
+      rotation: {x: 0.50708234, y: -0.020372031, z: 0.86096233, w: 0.034589015}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: IKnoga_003_R
+      position: {x: 1.1407564, y: 1.0044991, z: 1.2294791}
+      rotation: {x: 0.22363548, y: 0.04527147, z: 0.96597725, w: -0.121760614}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Mesh
+      position: {x: 0, y: 0, z: -1.1366785}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 0.024929382, y: 0.024929384, z: 0.024929384}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
